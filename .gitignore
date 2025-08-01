@@ -1,0 +1,93 @@
+# Datasets - Ne pas committer les données
+playground-series-s5e8/
+*.csv
+data/
+datasets/
+
+# Fichiers de soumission Kaggle
+*submission*.csv
+submission_*.csv
+ultimate_submission_*.csv
+optimized_submission.csv
+ultra_optimized_submission.csv
+advanced_engineered_submission.csv
+
+# Modèles sauvegardés
+models/
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Visualisations générées
+*.png
+*.jpg
+*.jpeg
+*.pdf
+data_exploration.png
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs et cache
+*.log
+.cache/
+.pytest_cache/
+
+# Optuna database
+optuna-storage.db
+*.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
