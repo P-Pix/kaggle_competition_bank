@@ -49,7 +49,8 @@ pip install -r docs/requirements.txt
 ```
 
 ### 2. Télécharger les données
-Placez les fichiers de données Kaggle dans `playground-series-s5e8/`
+Placez les fichiers de données Kaggle dans
+[`playground-series-s5e8/`](https://www.kaggle.com/competitions/playground-series-s5e8/data)
 
 ### 3. Exécuter la solution optimale
 ```bash
@@ -132,9 +133,7 @@ Si vous utilisez ce code, merci de citer :
 
 ## 🤝 Contact
 
-- **LinkedIn**: [Votre profil LinkedIn]
-- **Kaggle**: [Votre profil Kaggle]
-- **Email**: [Votre email]
+- **Email**: [lemonnier.guillaume.pro@gmail.com](mailto:lemonnier.guillaume.pro@gmail.com)
 
 ---
 
